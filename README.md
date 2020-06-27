@@ -4,6 +4,6 @@ Warrior Legends Game made in JavaScript, as taught by Chris Deleon in his book #
 
 The game controls will only work if you are using a PC.
 
-Use W, A, S, D keys to move the warrior.
+Use W, A, S, D keys on your keyboard, to move the warrior.
 
 To play the game, go to the following link: https://worksbetter.github.io/Warrior_Legends/
